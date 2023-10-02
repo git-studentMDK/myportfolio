@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eddcd9;
+}
+
+header {
+    background-color: #f2ebe9;
+    color: #de5499;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.thankyou {
+    margin: 20px;
+    text-align: center;
+}
+
+ p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+
+ a {
+    text-decoration: none;
+    background-color: #ebe76b;
+    color: #33b9ea;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.9s;
+}
+
+ 

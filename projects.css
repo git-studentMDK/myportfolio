@@ -1,0 +1,46 @@
+/* Add CSS styles for your Projects page here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eddcd9;
+}
+
+header {
+    background-color:  #f2ebe9;
+    color: #de5499;
+    text-align: center;
+    padding: 0px ;
+    padding-top: 10px;
+    font-size: 40px;
+    height: 60px;
+}
+
+.projects {
+    margin: 20px;
+    
+}
+
+.project {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #f2ebe9;
+    background-color:  #f2ebe9;
+}
+
+.project h2 {
+    margin-top: 0;
+    border: 2px solid #FFE26A;
+    background-color: #FFE26A;
+    width: 30%;
+    border-radius: 30px;
+
+}
+nav{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border:2px #ea84a5 solid ;
+    background-color: #ea84a5;
+
+}
